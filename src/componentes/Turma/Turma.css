@@ -1,0 +1,17 @@
+.turma {
+    text-align: center;
+    padding: 32px;
+}
+.turma h3 {
+    font-size: 32px;
+    border-bottom: 3px solid;
+    display: inline-block;
+    padding-bottom: 8px;
+}
+
+.turma .estudantes {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}

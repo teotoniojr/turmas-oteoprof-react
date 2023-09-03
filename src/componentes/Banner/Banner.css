@@ -1,0 +1,8 @@
+.banner {
+    background: linear-gradient(#023047, #019ebc);
+    text-align: center;
+}
+
+.banner img {
+    max-width: 100%;
+}
